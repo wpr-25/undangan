@@ -3,7 +3,7 @@
 export default function invitation() {
     return (
         <div>
-            <audio src="mixkit-piano-reflections-22.mp3"/>
+            <audio src="mixkit-piano-reflections-22.mp3" autoPlay="autoplay"/>
             <div className="max-w-7xl mx-auto">
             <div class="bg-white py-24 sm:py-32">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
