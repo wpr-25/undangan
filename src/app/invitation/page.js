@@ -3,9 +3,9 @@
 export default function invitation() {
     return (
         <div>
-            <audio src="mixkit-piano-reflections-22.mp3" autoPlay="autoplay"/>
+            <audio src="mixkit-goo-lee-goo-lee-yup-994.mp3" autoPlay="autoplay"/>
             <div className="max-w-7xl mx-auto">
-            <div class="bg-white py-24 sm:py-32">
+            <div class="bg-gradient-to-br from-amber-200 to-pink-100 py-24 sm:py-32">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:text-center">
       <img src="https://keishaglow.com/wp-content/uploads/2021/03/logo-keisha-gold-gradasi-gelap.png" class="text-lg font-semibold leading-8 tracking-tight text-indigo-600 "/>
@@ -29,7 +29,7 @@ export default function invitation() {
             <div class="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-600">
          
             </div>
-            Tanggal
+            Tanggal :
           </dt>
           <dd class="mt-2 text-base leading-7 text-gray-600">25 Februari 2023.</dd>
         </div>
@@ -50,7 +50,7 @@ export default function invitation() {
 </div>
 
 
-<section class="overflow-hidden text-gray-700">
+<section class="bg-gradient-to-bl from-pink-100 to-amber-200 overflow-hidden text-gray-700">
   <div class="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
     <div class="flex flex-wrap -m-1 md:-m-2">
       <div class="flex flex-wrap w-1/2">
@@ -86,7 +86,7 @@ export default function invitation() {
 </section>
 
 
-<div class="overflow-hidden bg-white py-24 sm:py-32">
+<div class="bg-gradient-to-br from-amber-200 to-pink-100 overflow-hidden bg-white py-24 sm:py-32">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto grid max-w-2xl grid-cols-1 gap-y-16 gap-x-8 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
       <div class="lg:pr-8 lg:pt-4">
