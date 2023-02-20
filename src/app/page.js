@@ -40,7 +40,7 @@ export default function Home() {
                 </svg>
                 Alamat :
               </dt>
-              <dd class="inline"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15864.276762129459!2d106.782001!3d-6.254615!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1e0ca077a7b%3A0xb79e7c16af6422b5!2sKeisha%20Glow%20Jakarta!5e0!3m2!1sen!2sid!4v1676878540293!5m2!1sen!2sid" width="250" height="250"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></dd>
+              <dd class="inline"><iframe className="py-2" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15864.276762129459!2d106.782001!3d-6.254615!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1e0ca077a7b%3A0xb79e7c16af6422b5!2sKeisha%20Glow%20Jakarta!5e0!3m2!1sen!2sid!4v1676878540293!5m2!1sen!2sid" width="250" height="250"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></dd>
             </div>
           </dl>
         </div>
